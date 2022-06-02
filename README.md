@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @naveenkumar-123456
+- 👋 Hi, I’m Naveenkumar
 - 👀 I’m interested in Devops Engineering
 - 🌱 I’m currently learning Docker and Kubernetes
 - 💞️ I’m looking to collaborate on ...
